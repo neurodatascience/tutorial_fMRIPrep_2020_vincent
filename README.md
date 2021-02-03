@@ -1,7 +1,6 @@
 # tutorial_fMRIPrep_2020_vincent
 The fMRIPrep tutorial for the ORIGAMI lab. 
 ------
-The fmriprep tutorial for COSN @2020 by Qing Wang (Vincent).
 ## Commands for building fMRIPrep containers
 ```sudo docker pull poldracklab/fmriprep:latest```
 
