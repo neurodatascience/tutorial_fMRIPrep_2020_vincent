@@ -37,7 +37,7 @@ Select specific input data (session 2 here for both T1 and bold images).
 ## Tutorials.
 1. The [Standford fMRIPrep tutorial](https://reproducibility.stanford.edu/fmriprep-tutorial-running-the-docker-image/);
 2. [Andrew's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep.html#fmriprep) with youtube [videos](https://www.youtube.com/watch?v=J0npRWV2zTY);
-3. ~~~[DartBrains course chapter](https://dartbrains.org/features/notebooks/8_fmriprep_tutorial.html) by Sasha Brietzke & Luke Chang;~~~
+3. ~~[DartBrains course chapter](https://dartbrains.org/features/notebooks/8_fmriprep_tutorial.html) by Sasha Brietzke & Luke Chang;~~
 4. [Tutorials: BIDS, fMRIPrep, MRIQC](https://rpubs.com/sarenseeley/bids-fmriprep-mriqc) by Saren Seeley;
 5. [Brainlife tutorials](https://brainlife.io/docs/tutorial/fmri-preprocessing-tutorial/);
 6. [Neuroimaging Core Documentation](https://neuroimaging-core-docs.readthedocs.io/en/latest/) by Dianne Patterson.
